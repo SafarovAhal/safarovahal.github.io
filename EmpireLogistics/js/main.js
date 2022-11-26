@@ -22,7 +22,7 @@ window.addEventListener('DOMContentLoaded', event=>{
     }
 })
 
-    // OffCanvasy yapyan 0.5 sekuntdan son
+    
 function start(){
     setTimeout(closeCanvas, 500)
 }
